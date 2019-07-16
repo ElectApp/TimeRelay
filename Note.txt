@@ -1,0 +1,2 @@
+Upload to ESP8266 without Arduino IDE
+Follow at https://somtips.com/how-to-flash-bin-file-to-esp8266-nodemcu-from-windows-os/
